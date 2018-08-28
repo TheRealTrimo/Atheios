@@ -8,7 +8,7 @@ Joules is a self sustainable smart contract. Joules works by paying dividends
   claim or reinvest your earnings. If you claim your dividends the ATH 
   will be sent to your address. But if you reinvest your dividends you will 
   will recieve more joules(stake) which will yield to a higher dividends payout.
-  The fees keep allow for dividends payouts to be sustainable**
+  The fees allow for dividends payouts to be sustainable**
   
   There's a safe math library imported into the contract to keep it secure from
   exploits.
