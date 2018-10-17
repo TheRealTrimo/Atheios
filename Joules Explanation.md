@@ -13,8 +13,8 @@ Joules is a self sustainable smart contract. Joules works by paying dividends
   There's a safe math library imported into the contract to keep it secure from
   exploits.
  - Calculations:
- - Deposit fee: Amount/(100/7) = deposit fee
- - Withdrawal fee: Amount/(100/4) = withdrawal fee
+ - Deposit fee: Amount/(100/7) = deposit fee - (14.28%)
+ - Withdrawal fee: Amount/(100/4) = withdrawal fee - (25%)
  - Stake Calculation: stakeValue + ((100/7)/totalstake)
  - TotalStake is calculated by: totalstake issued + Stake increment 
    
